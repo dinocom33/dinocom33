@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Simeon Todorov
 
-- 🌱 I’m currently learning Programming Fundamentals with Python in Software University https://softuni.bg
+- 🌱 I’m currently learning Programming Fundamentals with Python - September 2022 in Software University https://softuni.bg
 - 📫 How to reach me: simeon.s.todorov@gmail.com
 
 <!--
