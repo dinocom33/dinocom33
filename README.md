@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Simeon Todorov
 
-- 🌱 I’m currently learning Programming with Python - September 2022 in Software University(SoftUni) https://softuni.bg.
+- 🌱 I’m currently learning Programming with Python in Software University(SoftUni) https://softuni.bg.
 - I am a Home Assistant enthusiast who loves home automation. This is one of the main reasons I started learning Python.
 - 📫 How to reach me: simeon.s.todorov@gmail.com
 
