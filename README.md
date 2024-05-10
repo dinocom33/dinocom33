@@ -19,12 +19,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I’m currently learning **Programming with Python/Python WEB Development** in **Software University(SoftUni) https://softuni.bg.**
 -->
 
 <h1 align="center">Hi 👋, I'm Simeon Todorov</h1>
 <h4 align="center">Highly motivated Python Web Developer with comprehensive knowledge of programming fundamentals, object-oriented programming, and web development. Skilled in using Python frameworks such as Django, Django REST Framework and working with databases like PostgreSQL. Strong problem-solving abilities and a passion for delivering high-quality code. Eager to contribute to dynamic software development projects.I am a Home Assistant enthusiast who loves home automation. This is one of the main reasons I started learning Python.</h4>
-
-- 🌱 I’m currently learning **Programming with Python/Python WEB Development** in **Software University(SoftUni) https://softuni.bg.**
 
 - 👨‍💻 All of my projects are available <a href="https://github.com/dinocom33?tab=repositories">here</a>
 
