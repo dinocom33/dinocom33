@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Programming with Python in Software University(SoftUni) https://softuni.bg.
 - Highly motivated Python Web Developer with comprehensive knowledge of programming fundamentals, object-oriented programming, and web development. Skilled in using Python frameworks such as Django
-- and working with databases like PostgreSQL. Strong problem-solving abilities and a passion for delivering high-quality code. Eager to contribute to dynamic software development projects.I am a Home Assistant enthusiast who loves home automation. This is one - of the main reasons I started learning Python.
+- and working with databases like PostgreSQL. Strong problem-solving abilities and a passion for delivering high-quality code. Eager to contribute to dynamic software development projects.I am a Home Assistant enthusiast who loves home automation.
 - 📫 How to reach me: simeon.s.todorov@gmail.com
 
 
